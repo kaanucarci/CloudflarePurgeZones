@@ -19,7 +19,7 @@
 <h2>📦 Installation</h2>
   <ol>
     <li>Clone the repository:
-      <pre><code>git clone https://github.com/your-username/cloudflare-cache-purge-tool.git</code></pre>
+      <pre><code>git clone https://github.com/kaanucarci/CloudflarePurgeZones.git</code></pre>
     </li>
 
   </ol>
